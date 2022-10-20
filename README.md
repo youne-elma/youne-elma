@@ -19,7 +19,7 @@ I'm Youness El Marhoum an enthusiastic Junior Front-End Developer, still a stude
 
 #### Business
 
-- :email: ipenywis@gmail.com
+- :email: youne-elma@gmail.com
 
 #### Profile Visits
 
@@ -29,6 +29,8 @@ I'm Youness El Marhoum an enthusiastic Junior Front-End Developer, still a stude
 <summary>More stuff about me</summary>
 
 #### Github Stats
+
+I love learning new things in web, enjoying my studies, and helping others if I can.
 
 ![Younelma's github stats](https://github-readme-stats.vercel.app/api?username=youne-elma&count_private=true&theme=tokyonight&hide=contribs,prs)
 
