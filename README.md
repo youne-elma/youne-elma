@@ -6,7 +6,7 @@ I'm Youness El Marhoum an enthusiastic Junior Front-End Developer, still a stude
 
 [![Twitter Badge](https://img.shields.io/badge/-@ElmaYoune-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ElmaYoune)](https://twitter.com/ElmaYoune) [![Linkedin Badge](https://img.shields.io/badge/-Younelma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youne-elma/) [![Mail Badge](https://img.shields.io/badge/-@younelma-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/youness.elmarhoum) [![Mail Badge](https://img.shields.io/badge/-Younelma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:youne.elma@gmail.com)
 
-- 🔭 I’m currently stufying on
+- 🔭 I’m currently studying on Data Science
 - :computer: I’m currently learning Redux with React
 - 🤔 I’m looking for help with Jest unit testing
 - 📫 How to reach me: youne.elma@gmail.com
