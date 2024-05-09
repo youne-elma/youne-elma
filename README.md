@@ -23,7 +23,7 @@ I'm Youness El Marhoum an enthusiastic Junior Front-End Developer, still a stude
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=youne-elma)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youne-elma&label=Profile%20views&color=dbbb34&style=flat" alt="youne-elma" /> </p>
 
 <details>
 <summary>More stuff about me</summary>
